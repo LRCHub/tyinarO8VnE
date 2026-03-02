@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "base_track": "Lost my music",
+  "base_artist": "涼宮ハルヒ (CV.平野 綾)",
+  "createdAt": "2026-03-02T13:00:18.662755Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Since I Lost My Baby",
+      "artist": "Luther Vandross",
+      "has_synced": true,
+      "path": "select/01_Since_I_Lost_My_Baby_Luther_Vandross.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lost My Soul",
+      "artist": "Maps",
+      "has_synced": false,
+      "path": "select/02_Lost_My_Soul_Maps.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Night I Lost My Head",
+      "artist": "Maxïmo Park",
+      "has_synced": true,
+      "path": "select/03_The_Night_I_Lost_My_Head_Maxïmo_Park.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I lost my mind",
+      "artist": "Metronomy",
+      "has_synced": true,
+      "path": "select/04_I_lost_my_mind_Metronomy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I've Lost My Baby",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/05_I've_Lost_My_Baby_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I’ve Lost My Baby",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/06_I’ve_Lost_My_Baby_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Almost Lost My Mind",
+      "artist": "Albert King",
+      "has_synced": true,
+      "path": "select/07_I_Almost_Lost_My_Mind_Albert_King.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Lost My Little Girl (Live Unplugged)",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/08_I_Lost_My_Little_Girl_(Live_Unplugged)_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Lost My Little Girl",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/09_I_Lost_My_Little_Girl_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lost My Faith",
+      "artist": "Seal",
+      "has_synced": true,
+      "path": "select/10_Lost_My_Faith_Seal.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lost My Brain Once Again",
+      "artist": "Cyco Miko",
+      "has_synced": false,
+      "path": "select/11_Lost_My_Brain_Once_Again_Cyco_Miko.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Lost My Star In Krasnodar",
+      "artist": "Lacrimosa",
+      "has_synced": false,
+      "path": "select/12_I_Lost_My_Star_In_Krasnodar_Lacrimosa.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "You Lost My Memory",
+      "artist": "Skyclad",
+      "has_synced": true,
+      "path": "select/13_You_Lost_My_Memory_Skyclad.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Think I Lost My Headache",
+      "artist": "Queens of the Stone Age",
+      "has_synced": true,
+      "path": "select/14_I_Think_I_Lost_My_Headache_Queens_of_the_Stone_Age.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Lost My Heart When I Found You",
+      "artist": "Shania Twain",
+      "has_synced": false,
+      "path": "select/15_I_Lost_My_Heart_When_I_Found_You_Shania_Twain.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lost My Heart",
+      "artist": "Shania Twain",
+      "has_synced": false,
+      "path": "select/16_Lost_My_Heart_Shania_Twain.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lost Control",
+      "artist": "Alan Walker feat. Sorana",
+      "has_synced": true,
+      "path": "select/17_Lost_Control_Alan_Walker_feat._Sorana.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lost Control",
+      "artist": "Alan Walker;Sorana",
+      "has_synced": true,
+      "path": "select/18_Lost_Control_Alan_Walker;Sorana.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Lost",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/19_Lost_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Lost",
+      "artist": "Amanda Palmer & The Grand Theft Orchestra",
+      "has_synced": true,
+      "path": "select/20_Lost_Amanda_Palmer_&_The_Grand_Theft_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "(Lost Her Love) On Our Last Date",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/21_(Lost_Her_Love)_On_Our_Last_Date_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "I Lost It",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/22_I_Lost_It_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "I Lost It",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/23_I_Lost_It_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Let's Get Lost",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/24_Let's_Get_Lost_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Lost Highway",
+      "artist": "Hank Williams",
+      "has_synced": true,
+      "path": "select/25_Lost_Highway_Hank_Williams.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Lost In the Fifties Tonight",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/26_Lost_In_the_Fifties_Tonight_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Lost and Found",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/27_Lost_and_Found_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Lost In This Moment",
+      "artist": "Big & Rich",
+      "has_synced": true,
+      "path": "select/28_Lost_In_This_Moment_Big_&_Rich.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Lost in the Middle of Nowhere",
+      "artist": "Kane Brown feat. Becky G",
+      "has_synced": true,
+      "path": "select/29_Lost_in_the_Middle_of_Nowhere_Kane_Brown_feat._Becky_G.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Lost in the Middle of Nowhere (feat. Becky G)",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/30_Lost_in_the_Middle_of_Nowhere_(feat._Becky_G)_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Lost Control (Mixed)",
+      "artist": "Alan Walker",
+      "has_synced": false,
+      "path": "select/31_Lost_Control_(Mixed)_Alan_Walker.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "The Lost Years",
+      "artist": "Stephanie Quayle",
+      "has_synced": false,
+      "path": "select/32_The_Lost_Years_Stephanie_Quayle.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lost my music",
+      "artist": "涼宮ハルヒ(CV.平野綾)",
+      "has_synced": false,
+      "path": "select/pl_01_Lost_my_music_涼宮ハルヒ(CV.平野綾).txt"
+    }
+  ]
+}
